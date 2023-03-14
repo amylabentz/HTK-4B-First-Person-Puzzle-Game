@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/amyla/OneDrive/Documents/GitHub/HTK-4B-First-Person-Puzzle-Game/HTK_4B_PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/AC_InteractionSystem.uasset",
+				"C:/Users/amyla/OneDrive/Documents/GitHub/HTK-4B-First-Person-Puzzle-Game/HTK_4B_PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/I_Interactable.uasset",
+				"C:/Users/amyla/OneDrive/Documents/GitHub/HTK-4B-First-Person-Puzzle-Game/HTK_4B_PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_GrapableBase.uasset",
+				"C:/Users/amyla/OneDrive/Documents/GitHub/HTK-4B-First-Person-Puzzle-Game/HTK_4B_PuzzleGame/Content/FirstPersonAdventure/L_FirstPerson.umap",
+				"C:/Users/amyla/OneDrive/Documents/GitHub/HTK-4B-First-Person-Puzzle-Game/HTK_4B_PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/FL_InteractionSystem.uasset",
+				"C:/Users/amyla/OneDrive/Documents/GitHub/HTK-4B-First-Person-Puzzle-Game/HTK_4B_PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Door.uasset"
+			]
+		}
+	]
+}
